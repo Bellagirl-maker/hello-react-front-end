@@ -19,7 +19,7 @@ const Greeting = () => {
       <h1>Random Message</h1>
       <p>{greeting.body}</p>
     </div>
-  )
-}
+  );
+};
 
 export default Greeting;
